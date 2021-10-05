@@ -1,0 +1,8 @@
+E:\Progetti\.NET-file-transfer-based-on-Async-Socket\src\SendFile\obj\Debug\netcoreapp3.1\SendFile.AssemblyInfoInputs.cache
+E:\Progetti\.NET-file-transfer-based-on-Async-Socket\src\SendFile\obj\Debug\netcoreapp3.1\SendFile.AssemblyInfo.cs
+E:\Progetti\.NET-file-transfer-based-on-Async-Socket\src\SendFile\obj\Debug\netcoreapp3.1\SendFile.csproj.CoreCompileInputs.cache
+E:\Progetti\.NET-file-transfer-based-on-Async-Socket\src\SendFile\bin\Debug\netcoreapp3.1\SendFile.deps.json
+E:\Progetti\.NET-file-transfer-based-on-Async-Socket\src\SendFile\bin\Debug\netcoreapp3.1\SendFile.dll
+E:\Progetti\.NET-file-transfer-based-on-Async-Socket\src\SendFile\bin\Debug\netcoreapp3.1\SendFile.pdb
+E:\Progetti\.NET-file-transfer-based-on-Async-Socket\src\SendFile\obj\Debug\netcoreapp3.1\SendFile.dll
+E:\Progetti\.NET-file-transfer-based-on-Async-Socket\src\SendFile\obj\Debug\netcoreapp3.1\SendFile.pdb
